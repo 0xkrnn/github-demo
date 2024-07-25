@@ -8,3 +8,4 @@ yellow
 
 
 violet
+white
